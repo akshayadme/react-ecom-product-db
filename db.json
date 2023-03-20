@@ -92,9 +92,9 @@
                 "https://i.dummyjson.com/data/products/20/4.jpg",
                 "https://i.dummyjson.com/data/products/20/thumbnail.jpg"
             ]
-        },
+        }
     ],
     "profile": {
-    "name": "akshayadme"
-  }
+        "name": "akshayadme"
+    }
 }
